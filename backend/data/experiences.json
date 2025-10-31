@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "title": "Kayaking",
+    "location": "Udupi, Karnataka",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "price": 999,
+    "description": "Curated small-group experience. Certified guide, safety gear included.",
+    "about": "Scenic routes, trained guides, and safety briefing. Minimum age 10.",
+    "slots": [
+      { "id": 101, "date": "2025-11-01", "time": "07:00", "capacity": 6 },
+      { "id": 102, "date": "2025-11-01", "time": "09:00", "capacity": 4 },
+      { "id": 103, "date": "2025-11-02", "time": "11:00", "capacity": 5 },
+      { "id": 104, "date": "2025-11-03", "time": "13:00", "capacity": 0 },
+      { "id": 105, "date": "2025-11-04", "time": "07:00", "capacity": 6 },
+      { "id": 106, "date": "2025-11-05", "time": "09:00", "capacity": 6 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Coffee Trail",
+    "location": "Coorg",
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "price": 1299,
+    "description": "Explore lush coffee estates with a local guide and tasting session.",
+    "about": "Includes coffee tasting, plantation walk, and light refreshments.",
+    "slots": [
+      { "id": 201, "date": "2025-11-01", "time": "10:00", "capacity": 8 },
+      { "id": 202, "date": "2025-11-02", "time": "10:00", "capacity": 8 },
+      { "id": 203, "date": "2025-11-03", "time": "14:00", "capacity": 6 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Beach Camping",
+    "location": "Gokarna, Karnataka",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+    "price": 1499,
+    "description": "Camp under the stars by the sea, with bonfire and acoustic music.",
+    "about": "Bring warm clothes for the night. Dinner and breakfast included.",
+    "slots": [
+      { "id": 301, "date": "2025-11-02", "time": "18:00", "capacity": 10 },
+      { "id": 302, "date": "2025-11-03", "time": "18:00", "capacity": 8 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Trekking Adventure",
+    "location": "Kudremukh, Karnataka",
+    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=60",
+    "price": 1799,
+    "description": "Guided trek through lush hills, waterfalls, and scenic viewpoints.",
+    "about": "Includes packed lunch and guide. Medium difficulty trek.",
+    "slots": [
+      { "id": 401, "date": "2025-11-01", "time": "06:00", "capacity": 12 },
+      { "id": 402, "date": "2025-11-02", "time": "06:00", "capacity": 10 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Scuba Diving",
+    "location": "Murudeshwar, Karnataka",
+    "imageUrl": "https://images.unsplash.com/photo-1516569422865-0b3c93f7fb8c?auto=format&fit=crop&w=800&q=60",
+    "price": 2499,
+    "description": "Discover the underwater world with certified instructors.",
+    "about": "Includes basic training, gear, and underwater photos.",
+    "slots": [
+      { "id": 501, "date": "2025-11-01", "time": "08:00", "capacity": 6 },
+      { "id": 502, "date": "2025-11-02", "time": "10:00", "capacity": 6 },
+      { "id": 503, "date": "2025-11-03", "time": "12:00", "capacity": 5 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Wildlife Safari",
+    "location": "Kabini, Karnataka",
+    "imageUrl": "https://images.unsplash.com/photo-1520975918311-1cabc1f7b2a7?auto=format&fit=crop&w=800&q=60",
+    "price": 1999,
+    "description": "Experience the thrill of spotting elephants and tigers in the wild.",
+    "about": "Open jeep safari with experienced naturalists. Includes breakfast.",
+    "slots": [
+      { "id": 601, "date": "2025-11-01", "time": "05:30", "capacity": 8 },
+      { "id": 602, "date": "2025-11-02", "time": "15:00", "capacity": 8 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Temple Heritage Walk",
+    "location": "Hampi, Karnataka",
+    "imageUrl": "https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?auto=format&fit=crop&w=800&q=60",
+    "price": 799,
+    "description": "Walk through the ruins of Hampi with a local historian guide.",
+    "about": "Cultural storytelling tour. Entry tickets not included.",
+    "slots": [
+      { "id": 701, "date": "2025-11-01", "time": "08:00", "capacity": 10 },
+      { "id": 702, "date": "2025-11-02", "time": "16:00", "capacity": 10 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Paragliding",
+    "location": "Nandi Hills, Karnataka",
+    "imageUrl": "https://images.unsplash.com/photo-1524492412937-4961d66aa114?auto=format&fit=crop&w=800&q=60",
+    "price": 2999,
+    "description": "Soar through the skies with a professional paragliding pilot.",
+    "about": "All safety gear provided. Weight limit 90kg.",
+    "slots": [
+      { "id": 801, "date": "2025-11-01", "time": "07:00", "capacity": 5 },
+      { "id": 802, "date": "2025-11-02", "time": "07:00", "capacity": 5 },
+      { "id": 803, "date": "2025-11-03", "time": "09:00", "capacity": 5 }
+    ]
+  }
+]
